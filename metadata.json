@@ -1,0 +1,6 @@
+{
+  "name": "CasePrep — One-Page MBA Case Sheet",
+  "description": "Turn one business case PDF or text into a cold-call-ready, citation-backed one-page class prep sheet in 500 words or fewer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
